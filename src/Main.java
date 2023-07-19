@@ -101,7 +101,7 @@ public class Main {
     public static void task7() {
         System.out.println("Задача 7:");
         int one = 3;
-        int two = 7;
+        int two = 5;
         int three = 9;
 
         if (one > two) {
